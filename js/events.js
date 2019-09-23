@@ -13,7 +13,9 @@ function frameIt(){
 }
 
 function pressIt(){
-  
+  $('#typing').on('keydown', function(){
+    
+  });
 }
 
 $(document).ready(function(){
