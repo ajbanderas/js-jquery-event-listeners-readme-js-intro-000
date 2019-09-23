@@ -31,5 +31,5 @@ $(document).ready(function(){
 getIt();
 grameIt();
 pressIt();
-
+submitIt();
 });
